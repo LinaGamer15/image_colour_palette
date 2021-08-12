@@ -1,0 +1,20 @@
+.h1 {
+background-image: url('h1.png');
+background-size: 100%;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-weight: 900 !important;
+font-size: 3.5rem !important;
+padding: 10px;
+}
+
+.button {
+padding: 10px 50px !important;
+background: #c70039 !important;
+border-color: #c70039 !important;
+}
+
+.flash {
+ font-size: 1.5rem !important;
+ color: #c70039;
+}
